@@ -6,6 +6,7 @@ public class hanccTest {
 		// TODO Auto-generated method stub
 		System.out.println("hanccc test");
 		System.out.println("123 test");
+		System.out.println("hancBanch test");
 	}
 
 }
